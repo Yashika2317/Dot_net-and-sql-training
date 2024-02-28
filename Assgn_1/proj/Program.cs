@@ -170,7 +170,7 @@ namespace Practice_questions
             mx = arr1[0];
             mn = arr1[0];
 
-            for (i = 1; i < n; i++)
+            for (i = 0; i < n; i++)
             {
                 if (arr1[i] > mx)
                 {
