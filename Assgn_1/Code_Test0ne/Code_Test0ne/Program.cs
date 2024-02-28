@@ -6,40 +6,41 @@ using System.Threading.Tasks;
 
 namespace Code_Test0ne
 {
-     class Program
-     {
-         static void Main(string[] args)
-         {
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
-             Console.WriteLine("Program to check the largest number among 3 integers");
-             int[] num = new int[3];
-             int i, Maximum;
+            Console.WriteLine("Program to check the largest number among 3 integers");
+            int[] num = new int[3];
+            int i, Maximum;
 
-             Console.WriteLine("Input {0} numbers :\n");
-             for (i = 0; i < 3; i++)
-             {
-                 Console.WriteLine("Numbers - {0} : ", i);
-                 num[i] = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input {0} numbers :\n");
+            for (i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Numbers - {0} : ", i);
+                num[i] = Convert.ToInt32(Console.ReadLine());
 
-             }
+            }
 
-             if(num[0]>num[1] && num[0] > num[2])
-             {
-                 Console.WriteLine("{0} is the largest", num[0]);
-             }else if (num[1] > num[2])
-             {
-                 Console.WriteLine("{0} is the largest", num[1]);
-             }
-             else
-             {
-                 Console.WriteLine("{0} is the largest", num[2]);
-             }
+            if (num[0] > num[1] && num[0] > num[2])
+            {
+                Console.WriteLine("{0} is the largest", num[0]);
+            }
+            else if (num[1] > num[2])
+            {
+                Console.WriteLine("{0} is the largest", num[1]);
+            }
+            else
+            {
+                Console.WriteLine("{0} is the largest", num[2]);
+            }
 
-             Console.Read();
-         }
+            Console.Read();
+        }
 
 
-
+    }
      class program2
      {
          static void Main(string[] args)
