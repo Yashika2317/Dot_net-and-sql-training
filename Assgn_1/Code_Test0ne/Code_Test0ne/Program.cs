@@ -36,57 +36,21 @@ namespace Code_Test0ne
                 Console.WriteLine("{0} is the largest", num[2]);
             }
 
+            Class1 code = new Class1();
+            code.program2();
+
+            Class2 code2 = new Class2();
+            code2.program3();
+
             Console.Read();
-
-            Program program = new Program();
-            program.program2();
-            program.program2();
-              
-        }
-
-        public void program2()
-        {
-            Console.WriteLine("Program to remove a letter from string at any given position");
-            string str;
-            int n;
-            Console.WriteLine("Enter the string: ");
-            str = Console.ReadLine();
-            Console.WriteLine("Enter the position to be removed: ");
-            n = Convert.ToInt32(Console.ReadLine());
-
-            if (n > 0)
-            {
-                Console.WriteLine(str.Remove(n, 1));
-
-            }
-            Console.Read();
-        }
-
-
-        public void program3()
-        {
-            string input;
-            Console.WriteLine("Enter the string: ");
-            input = Console.ReadLine();
-
-            StringBuilder value = new StringBuilder(input);
-
-            char A = input[0];
-            char B = input[input.Length - 1];
-
-
-            value[0] = B;
-            value[input.Length - 1] = A;
-            value.ToString();
-
-            Console.WriteLine("Modified string: {0}", input);
-            Console.Read();
-
 
         }
 
 
+
+      
+
+
+        
     }
-
 }
-    
