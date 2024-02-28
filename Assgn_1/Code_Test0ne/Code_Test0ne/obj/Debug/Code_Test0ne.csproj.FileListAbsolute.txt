@@ -1,0 +1,7 @@
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\bin\Debug\Code_Test0ne.exe.config
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\bin\Debug\Code_Test0ne.exe
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\bin\Debug\Code_Test0ne.pdb
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\obj\Debug\Code_Test0ne.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\obj\Debug\Code_Test0ne.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\obj\Debug\Code_Test0ne.exe
+C:\Yashika\Infinite\Assignment\Assgn_1\Code_Test0ne\Code_Test0ne\obj\Debug\Code_Test0ne.pdb
