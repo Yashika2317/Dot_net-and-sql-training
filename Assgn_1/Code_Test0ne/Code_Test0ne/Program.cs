@@ -37,36 +37,33 @@ namespace Code_Test0ne
             }
 
             Console.Read();
+
+            Program program = new Program();
+            program.program2();
+            program.program2();
+              
+        }
+
+        public void program2()
+        {
+            Console.WriteLine("Program to remove a letter from string at any given position");
+            string str;
+            int n;
+            Console.WriteLine("Enter the string: ");
+            str = Console.ReadLine();
+            Console.WriteLine("Enter the position to be removed: ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            if (n > 0)
+            {
+                Console.WriteLine(str.Remove(n, 1));
+
+            }
+            Console.Read();
         }
 
 
-    }
-     class program2
-     {
-         static void Main(string[] args)
-         {
-
-             Console.WriteLine("Program to remove a letter from string at any given position");
-             string str;
-             int n;
-             Console.WriteLine("Enter the string: ");
-             str = Console.ReadLine();
-             Console.WriteLine("Enter the position to be removed: ");
-             n = Convert.ToInt32(Console.ReadLine());
-
-             if (n > 0)
-             {
-                 Console.WriteLine( str.Remove(n, 1));
-
-             }
-             Console.Read();
-
-         }
-     }
-    
-    class program3
-    {
-        static void Main(string[] args)
+        public void program3()
         {
             string input;
             Console.WriteLine("Enter the string: ");
@@ -76,7 +73,7 @@ namespace Code_Test0ne
 
             char A = input[0];
             char B = input[input.Length - 1];
-          
+
 
             value[0] = B;
             value[input.Length - 1] = A;
@@ -84,9 +81,12 @@ namespace Code_Test0ne
 
             Console.WriteLine("Modified string: {0}", input);
             Console.Read();
-      
+
+
         }
-        
+
 
     }
+
 }
+    
