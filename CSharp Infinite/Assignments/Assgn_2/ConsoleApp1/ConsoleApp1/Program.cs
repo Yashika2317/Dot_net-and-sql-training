@@ -66,7 +66,7 @@ public class Accounts
 
     static void Main(string[] args)
     {
-        /*Console.WriteLine("Enter Account Number:");
+        Console.WriteLine("Enter Account Number:");
         string Account_Number = Console.ReadLine();
 
         Console.WriteLine("Enter Customer Name:");
@@ -131,7 +131,7 @@ public class Accounts
         Console.WriteLine();
         student.DisplayData();
         student.DisplayResult();
-        Console.ReadLine(); */
+        Console.ReadLine();
 
 
        //Main function for customer.cs
