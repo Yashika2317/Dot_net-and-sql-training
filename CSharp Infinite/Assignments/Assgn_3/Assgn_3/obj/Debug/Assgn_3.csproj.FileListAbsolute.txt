@@ -1,0 +1,7 @@
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\bin\Debug\Assgn_3.exe.config
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\bin\Debug\Assgn_3.exe
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\bin\Debug\Assgn_3.pdb
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\obj\Debug\Assgn_3.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\obj\Debug\Assgn_3.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\obj\Debug\Assgn_3.exe
+C:\Yashika\Infinite\Assignment\CSharp Infinite\Assignments\Assgn_3\Assgn_3\obj\Debug\Assgn_3.pdb
