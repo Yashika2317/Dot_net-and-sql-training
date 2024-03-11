@@ -1,0 +1,10 @@
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\bin\Debug\Concession.exe.config
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\bin\Debug\Concession.exe
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\bin\Debug\Concession.pdb
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\bin\Debug\TicketConcessionLibrary.dll
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\bin\Debug\TicketConcessionLibrary.pdb
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\obj\Debug\Concession.csproj.CopyComplete
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\obj\Debug\Concession.exe
+C:\Yashika\Infinite\Assignments\CSharp_Assignments\Assignment_4\TicketConcessionLibrary\Concession\obj\Debug\Concession.pdb

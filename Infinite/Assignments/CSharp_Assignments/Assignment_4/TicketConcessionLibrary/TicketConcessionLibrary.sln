@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketConcessionLibrary", "TicketConcessionLibrary\TicketConcessionLibrary.csproj", "{0CCDCC34-2B75-4B8F-9CE5-FDB36A963F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concession", "Concession\Concession.csproj", "{A1E30B82-D546-48FC-BDC7-D9C8DEBFC161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCDCC34-2B75-4B8F-9CE5-FDB36A963F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCDCC34-2B75-4B8F-9CE5-FDB36A963F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCDCC34-2B75-4B8F-9CE5-FDB36A963F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCDCC34-2B75-4B8F-9CE5-FDB36A963F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E30B82-D546-48FC-BDC7-D9C8DEBFC161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E30B82-D546-48FC-BDC7-D9C8DEBFC161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E30B82-D546-48FC-BDC7-D9C8DEBFC161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E30B82-D546-48FC-BDC7-D9C8DEBFC161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C55EA2-C46F-4371-A59B-9C1CC8CB6430}
+	EndGlobalSection
+EndGlobal
