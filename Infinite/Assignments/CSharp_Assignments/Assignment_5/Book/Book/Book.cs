@@ -40,7 +40,7 @@ namespace Book
             }
             else
             {
-                Console.WriteLine("Invalid");
+                throw new ArgumentOutOfRangeException(nameof(Index), "Invalid index for adding book.");
             }
 
         }
@@ -59,42 +59,37 @@ namespace Book
         }
     }
 
-    public class Day_Scholar : IStudent
-{
-    public int StudentId { get; set; }
-    public string Name { get; set; }
-
-    public void ShowDetails()
-    {
-        Console.WriteLine("Dayscholar Details:");
-        Console.WriteLine($"Student ID: {StudentId}");
-        Console.WriteLine($"Name: {Name}");
-    }
-}
-
     class test
     {
         static void Main(string[] args)
         {
-            Book_Shelf shelf = new Book_Shelf();
-            for (int i = 0; i < 5; i++)
+            try
             {
-              
-                Console.WriteLine("Enter the Book Name: ");
-                string bookname = Console.ReadLine();
+                Book_Shelf shelf = new Book_Shelf();
+                for (int i = 0; i < 5; i++)
+                {
 
-                Console.WriteLine("Enter Author Name: ");
-                string authorname = Console.ReadLine();
+                    Console.WriteLine("Enter the Book Name: ");
+                    string bookname = Console.ReadLine();
 
-                Book book = new Book(bookname, authorname);
+                    Console.WriteLine("Enter Author Name: ");
+                    string authorname = Console.ReadLine();
 
-                Console.Write($"Enter the index for book (Start from 0): ");
-                int Index = int.Parse(Console.ReadLine());
+                    Book book = new Book(bookname, authorname);
 
-                shelf.AddBook(book, Index);
+                    Console.Write($"Enter the index for book (Start from 0): ");
+                    int Index = int.Parse(Console.ReadLine());
+
+                    shelf.AddBook(book, Index);
+                }
+                Console.WriteLine("\n\nBooks on the shelf are: ");
+                shelf.displayshelf();
             }
-            Console.WriteLine("\n\nBooks on the shelf are: ");
-            shelf.displayshelf();
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+
             Console.ReadLine();
 
             //Program 2
@@ -119,7 +114,7 @@ namespace Book
             box3.Display_Box();
 
             Console.ReadLine();
-            
+
 
             //Program 3
 
@@ -143,7 +138,7 @@ namespace Book
             //Program 4
 
             Console.WriteLine("Enter details for Dayscholar");
-           
+
             Console.Write("Student ID: ");
             int dayscholarId = int.Parse(Console.ReadLine());
 
@@ -153,16 +148,16 @@ namespace Book
             IStudent dayscholar = new DayScholar { StudentId = dayscholarId, Name = dayscholarName };
 
             Console.WriteLine("\n\nEnter details for Resident");
-           
+
             Console.Write("Student ID: ");
             int residentId = int.Parse(Console.ReadLine());
-           
+
             Console.Write("Name: ");
             string residentName = Console.ReadLine();
 
             IStudent resident = new Resident { StudentId = residentId, Name = residentName };
 
-            
+
             Console.WriteLine("\n\nDetails");
             Console.WriteLine("-------------------");
             dayscholar.ShowDetails();
@@ -170,5 +165,10 @@ namespace Book
             Console.Read();
         }
     }
-    
+
+
 }
+
+    
+    
+
