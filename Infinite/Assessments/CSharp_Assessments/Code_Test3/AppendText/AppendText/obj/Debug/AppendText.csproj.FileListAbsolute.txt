@@ -1,0 +1,7 @@
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\bin\Debug\AppendText.exe.config
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\bin\Debug\AppendText.exe
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\bin\Debug\AppendText.pdb
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\obj\Debug\AppendText.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\obj\Debug\AppendText.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\obj\Debug\AppendText.exe
+C:\Yashika\Infinite\Assessments\CSharp_Assessments\Code_Test3\AppendText\AppendText\obj\Debug\AppendText.pdb
