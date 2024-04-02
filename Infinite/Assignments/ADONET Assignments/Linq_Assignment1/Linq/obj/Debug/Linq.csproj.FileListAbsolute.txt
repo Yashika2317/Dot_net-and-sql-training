@@ -1,0 +1,7 @@
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\bin\Debug\Linq.exe
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\bin\Debug\Linq.pdb
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\obj\Debug\Linq.exe
+C:\Yashika\Infinite\Assignments\ADONET Assignments\Linq\Linq\obj\Debug\Linq.pdb
