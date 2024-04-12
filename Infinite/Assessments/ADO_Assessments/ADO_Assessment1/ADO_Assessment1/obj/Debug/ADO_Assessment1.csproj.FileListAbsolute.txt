@@ -1,0 +1,7 @@
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\bin\Debug\ADO_Assessment1.exe.config
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\bin\Debug\ADO_Assessment1.exe
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\bin\Debug\ADO_Assessment1.pdb
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\obj\Debug\ADO_Assessment1.csproj.AssemblyReference.cache
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\obj\Debug\ADO_Assessment1.csproj.CoreCompileInputs.cache
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\obj\Debug\ADO_Assessment1.exe
+C:\Yashika\Infinite\Assessments\ADO_Assessments\ADO_Assessment1\ADO_Assessment1\obj\Debug\ADO_Assessment1.pdb
